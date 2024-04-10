@@ -15,3 +15,5 @@ https://archive.ics.uci.edu/dataset/14/breast+cancer
 ### Linguagem SQL (para estudar)
 https://www.w3schools.com/sql/sql_case.asp
 
+
+#### Obs.:  Subi os 2 scritps com o comentário no commit como Script Final, mas um deles é o Script comentado, e somente o que tem o nome final é o script puro.
